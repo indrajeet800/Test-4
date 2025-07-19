@@ -10,6 +10,7 @@ public class Test4Application {
 		SpringApplication.run(Test4Application.class, args);
 		String name  = "mike";
 		int x = 100;
+		int z = 2000;
 		int y= 200;
 		boolean isPresent = false;
 		float m =10.3f;
