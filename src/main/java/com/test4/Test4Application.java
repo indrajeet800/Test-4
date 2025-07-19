@@ -1,7 +1,8 @@
 package com.test4;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
- bug-fix-3456-login-error
+// hello merge conflict
+bug-fix-3456-login-error
   
 
 @SpringBootApplication
