@@ -13,6 +13,7 @@ public class Test4Application {
 		int y= 200;
 		boolean isPresent = false;
 		float m =10.3f;
+		float c =20.5f;
 		char cg = "x";
 	}
     // bug fi
